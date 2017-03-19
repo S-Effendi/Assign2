@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="assign2_2" />
+        <module name="assign2_3" />
+        <module name="assign2_4" />
+        <module name="assign2_5" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assign2" target="1.5" />
+      <module name="assign2_2" target="1.5" />
+      <module name="assign2_3" target="1.5" />
+      <module name="assign2_4" target="1.5" />
+      <module name="assign2_5" target="1.5" />
+      <module name="assign3" target="1.5" />
+      <module name="comassign2_2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
